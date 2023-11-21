@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="WolfScan" size="1.000000 1.442029" />
+    <ImageTarget name="GolemScan" size="1.000000 1.180706" />
+    <ImageTarget name="BalbalScan" size="1.000000 0.892934" />
+    <ImageTarget name="PhoenixScan" size="1.000000 0.998326" />
+  </Tracking>
+</QCARConfig>
